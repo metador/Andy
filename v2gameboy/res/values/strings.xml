@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GameboyActivity!</string>
+    <string name="app_name">Bubble Madness</string>
+ <!--Replace placeholder ID with your tracking ID-->
+
+  <!--Enable automatic activity tracking-->
+
+  <!--Enable automatic exception tracking-->
+</resources>
